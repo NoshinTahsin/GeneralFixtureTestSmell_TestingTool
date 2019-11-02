@@ -1,0 +1,609 @@
+C://Users//noshi//Documents//Comic Life//PersonSmell.java
+Iteration no: ************************
+1
+
+List<Person> a;
+PersonController b;
+String x;
+@Before
+public void setUp() throws Exception {
+    System.out.println("Smelly Class");
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    b = new PersonController();
+    x = "smell";
+}
+@Test
+public void testAdd() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+@Test
+public void testDelete() {
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x.reverse();
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    cntlString = cntlString.reverse();
+}
+@Test
+public void testAddAgain() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x + 1;
+    System.out.print("test ");
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+System
+a
+b
+x
+b
+personList
+personController
+a
+newPersonList
+a
+x
+x
+personList
+personController
+cntlString
+cntlString
+b
+x
+x
+System
+a
+newPersonList
+Field re vai
+
+List<Person> a;
+Field re vai
+
+PersonController b;
+Field re vai
+
+String x;
+Method re vai
+
+@Before
+public void setUp() throws Exception {
+    System.out.println("Smelly Class");
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    b = new PersonController();
+    x = "smell";
+}
+Method re vai
+
+@Test
+public void testAdd() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+Method re vai
+
+@Test
+public void testDelete() {
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x.reverse();
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    cntlString = cntlString.reverse();
+}
+Method re vai
+
+@Test
+public void testAddAgain() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x + 1;
+    System.out.print("test ");
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+Field gular list :List<Person> a;
+Field gular list :PersonController b;
+Field gular list :String x;
+Method gular list :@Before
+public void setUp() throws Exception {
+    System.out.println("Smelly Class");
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    b = new PersonController();
+    x = "smell";
+}
+Method gular list :@Test
+public void testAdd() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+Method gular list :@Test
+public void testDelete() {
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x.reverse();
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    cntlString = cntlString.reverse();
+}
+Method gular list :@Test
+public void testAddAgain() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x + 1;
+    System.out.print("test ");
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+test method gular list :@Test
+public void testAdd() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+test method gular list :@Test
+public void testDelete() {
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x.reverse();
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    cntlString = cntlString.reverse();
+}
+test method gular list :@Test
+public void testAddAgain() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x + 1;
+    System.out.print("test ");
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+KOto ???1
+parent PersonSmellExtender
+PersonSmellExtenderC://Users//noshi//Documents//Comic Life//PersonSmellExtender.java
+Iteration no: ************************
+2
+
+List<Person> a;
+PersonController b;
+String c;
+int g;
+@Before
+public void setUp() throws Exception {
+    System.out.println("Smelly Class");
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    b = new PersonController();
+    c = "smell";
+}
+System
+a
+b
+c
+Field re vai
+
+List<Person> a;
+Field re vai
+
+PersonController b;
+Field re vai
+
+String c;
+Field re vai
+
+int g;
+Method re vai
+
+@Before
+public void setUp() throws Exception {
+    System.out.println("Smelly Class");
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    b = new PersonController();
+    c = "smell";
+}
+Field gular list :List<Person> a;
+Field gular list :PersonController b;
+Field gular list :String x;
+Field gular list :List<Person> a;
+Field gular list :PersonController b;
+Field gular list :String c;
+Field gular list :int g;
+Method gular list :@Before
+public void setUp() throws Exception {
+    System.out.println("Smelly Class");
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    b = new PersonController();
+    c = "smell";
+}
+test method gular list :@Test
+public void testAdd() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+test method gular list :@Test
+public void testDelete() {
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x.reverse();
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    cntlString = cntlString.reverse();
+}
+test method gular list :@Test
+public void testAddAgain() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x + 1;
+    System.out.print("test ");
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+KOto ???1
+parent ExtenderErExtender
+ExtenderErExtenderC://Users//noshi//Documents//Comic Life//ExtenderErExtender.java
+Iteration no: ************************
+3
+
+List<Person> a;
+PersonController b;
+String ll;
+int g;
+@Before
+public void setUp() throws Exception {
+    ll = "smell";
+}
+ll
+Field re vai
+
+List<Person> a;
+Field re vai
+
+PersonController b;
+Field re vai
+
+String ll;
+Field re vai
+
+int g;
+Method re vai
+
+@Before
+public void setUp() throws Exception {
+    ll = "smell";
+}
+Field gular list :List<Person> a;
+Field gular list :PersonController b;
+Field gular list :String x;
+Field gular list :List<Person> a;
+Field gular list :PersonController b;
+Field gular list :String c;
+Field gular list :int g;
+Field gular list :List<Person> a;
+Field gular list :PersonController b;
+Field gular list :String ll;
+Field gular list :int g;
+Method gular list :@Before
+public void setUp() throws Exception {
+    ll = "smell";
+}
+test method gular list :@Test
+public void testAdd() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+test method gular list :@Test
+public void testDelete() {
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x.reverse();
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    cntlString = cntlString.reverse();
+}
+test method gular list :@Test
+public void testAddAgain() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x + 1;
+    System.out.print("test ");
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+KOto ???1
+parent LastExtender
+LastExtenderC://Users//noshi//Documents//Comic Life//LastExtender.java
+Iteration no: ************************
+4
+
+List<Person> a;
+PersonController b;
+String okaaa;
+int g;
+@Before
+public void setUp() throws Exception {
+    okaaaaa = "smell";
+}
+okaaaaa
+Field re vai
+
+List<Person> a;
+Field re vai
+
+PersonController b;
+Field re vai
+
+String okaaa;
+Field re vai
+
+int g;
+Method re vai
+
+@Before
+public void setUp() throws Exception {
+    okaaaaa = "smell";
+}
+Field gular list :List<Person> a;
+Field gular list :PersonController b;
+Field gular list :String x;
+Field gular list :List<Person> a;
+Field gular list :PersonController b;
+Field gular list :String c;
+Field gular list :int g;
+Field gular list :List<Person> a;
+Field gular list :PersonController b;
+Field gular list :String ll;
+Field gular list :int g;
+Field gular list :List<Person> a;
+Field gular list :PersonController b;
+Field gular list :String okaaa;
+Field gular list :int g;
+Method gular list :@Before
+public void setUp() throws Exception {
+    okaaaaa = "smell";
+}
+test method gular list :@Test
+public void testAdd() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+test method gular list :@Test
+public void testDelete() {
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x.reverse();
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    cntlString = cntlString.reverse();
+}
+test method gular list :@Test
+public void testAddAgain() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x + 1;
+    System.out.print("test ");
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+KOto ???0
+ETTTTTTTTTTTTTTTTTTTOOO KNNNNN 4
+
+ 
+ 
+ @Before
+public void setUp() throws Exception {
+    System.out.println("Smelly Class");
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    b = new PersonController();
+    x = "smell";
+}
+
+ 
+ 
+ @Before
+public void setUp() throws Exception {
+    System.out.println("Smelly Class");
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    b = new PersonController();
+    c = "smell";
+}
+
+ 
+ 
+ @Before
+public void setUp() throws Exception {
+    ll = "smell";
+}
+
+ 
+ 
+ @Before
+public void setUp() throws Exception {
+    okaaaaa = "smell";
+}
+body dekhi: Optional[{
+    System.out.println("Smelly Class");
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    b = new PersonController();
+    x = "smell";
+}]
+Checking expression: System.out.println("Smelly Class");
+Checking expression: a = new PersonUtility().getAllPerson("C://data//person.txt");
+Checking if assign expression: a = new PersonUtility().getAllPerson("C://data//person.txt");
+Checking assign expression: a = new PersonUtility().getAllPerson("C://data//person.txt")
+a
+Setup e ekhn ache : a
+Checking expression: b = new PersonController();
+Checking if assign expression: b = new PersonController();
+Checking assign expression: b = new PersonController()
+b
+Setup e ekhn ache : b
+Checking expression: x = "smell";
+Checking if assign expression: x = "smell";
+Checking assign expression: x = "smell"
+x
+Setup e ekhn ache : x
+body dekhi: Optional[{
+    System.out.println("Smelly Class");
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    b = new PersonController();
+    c = "smell";
+}]
+Checking expression: System.out.println("Smelly Class");
+Checking expression: a = new PersonUtility().getAllPerson("C://data//person.txt");
+Checking if assign expression: a = new PersonUtility().getAllPerson("C://data//person.txt");
+Checking assign expression: a = new PersonUtility().getAllPerson("C://data//person.txt")
+a
+Checking expression: b = new PersonController();
+Checking if assign expression: b = new PersonController();
+Checking assign expression: b = new PersonController()
+b
+Checking expression: c = "smell";
+Checking if assign expression: c = "smell";
+Checking assign expression: c = "smell"
+c
+Setup e ekhn ache : c
+body dekhi: Optional[{
+    ll = "smell";
+}]
+Checking expression: ll = "smell";
+Checking if assign expression: ll = "smell";
+Checking assign expression: ll = "smell"
+ll
+Setup e ekhn ache : ll
+body dekhi: Optional[{
+    okaaaaa = "smell";
+}]
+Checking expression: okaaaaa = "smell";
+Checking if assign expression: okaaaaa = "smell";
+Checking assign expression: okaaaaa = "smell"
+okaaaaa
+Setup e ekhn ache : okaaaaa
+jj 3
+Checking for method: @Test
+public void testAdd() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+b
+added Field: b
+personList
+personController
+a
+added Field: a
+newPersonList
+
+Method testAdd() has smell for variable x from line no 15 to 23
+
+
+
+
+
+Method testAdd() has smell for variable c from line no 15 to 23
+
+
+
+
+
+Method testAdd() has smell for variable ll from line no 15 to 23
+
+
+
+
+
+Method testAdd() has smell for variable okaaaaa from line no 15 to 23
+
+
+
+
+Checking for method: @Test
+public void testDelete() {
+    a = new PersonUtility().getAllPerson("C://data//person.txt");
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x.reverse();
+    personList = new PersonUtility().getAllPerson("C://data//person.txt");
+    personController = new PersonController();
+    cntlString = cntlString.reverse();
+}
+a
+added Field: a
+x
+added Field: x
+x
+personList
+personController
+cntlString
+cntlString
+
+Method testDelete() has smell for variable b from line no 25 to 34
+
+
+
+
+
+Method testDelete() has smell for variable c from line no 25 to 34
+
+
+
+
+
+Method testDelete() has smell for variable ll from line no 25 to 34
+
+
+
+
+
+Method testDelete() has smell for variable okaaaaa from line no 25 to 34
+
+
+
+
+Checking for method: @Test
+public void testAddAgain() {
+    b.add(new DummyPerson());
+    List<Person> newPersonList = new PersonUtility().getAllPerson("C://data//person.txt");
+    x = x + 1;
+    System.out.print("test ");
+    assertEquals(a.size() + 1, newPersonList.size());
+}
+b
+added Field: b
+x
+added Field: x
+x
+System
+a
+added Field: a
+newPersonList
+
+Method testAddAgain() has smell for variable c from line no 36 to 43
+
+
+
+
+
+Method testAddAgain() has smell for variable ll from line no 36 to 43
+
+
+
+
+
+Method testAddAgain() has smell for variable okaaaaa from line no 36 to 43
+
