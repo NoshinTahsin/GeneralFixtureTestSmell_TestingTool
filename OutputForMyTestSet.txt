@@ -1,0 +1,826 @@
+
+button clicked
+
+
+ProjectDir: C:\Users\noshi\Documents\Comic Life\TestSet
+
+/Class0Test.java
+
+File Path (BuildCompilationUnit) : C:\Users\noshi\Documents\Comic Life\TestSet\Class0Test.java
+
+Iteration no: 1
+Method gular list :@Before
+public void setUp() throws Exception {
+    System.out.println("Smelly Class");
+    a = 34;
+    b = 183.5;
+    c = "smell";
+}
+Method gular list :@Test
+public void firstTestMethod() {
+    b = b * 45;
+    b += 2;
+    List<Class1test> newList = new List<Class1test>();
+    Class1test = new Class1test();
+    c = x + "okay";
+}
+Method gular list :@Test
+public void secondTestMethod() {
+    Class1test obj;
+    a = a + 9;
+    c = c.reverse();
+    Class1test = new Class1test();
+    String dorkarNai = "dorkarNai";
+}
+Method gular list :@Test
+public void thirdTestMethod() {
+    a = pow(a, 3);
+    b += 3.5;
+    assertEquals(c.size(), 5);
+}
+
+List of Test Methods for the class :
+
+@Test
+public void firstTestMethod() {
+    b = b * 45;
+    b += 2;
+    List<Class1test> newList = new List<Class1test>();
+    Class1test = new Class1test();
+    c = x + "okay";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void secondTestMethod() {
+    Class1test obj;
+    a = a + 9;
+    c = c.reverse();
+    Class1test = new Class1test();
+    String dorkarNai = "dorkarNai";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void thirdTestMethod() {
+    a = pow(a, 3);
+    b += 3.5;
+    assertEquals(c.size(), 5);
+}
+
+parent Class1test
+
+Class1test
+Visitor er filepath: C:\Users\noshi\Documents\Comic Life\TestSet\Class1test.java
+
+Iteration no: 2
+Method gular list :@Before
+public void setUp() throws Exception {
+    d = 76868;
+    e = 24323.5;
+    f = "extended";
+}
+Method gular list :@Test
+public void classOneTestMethod() {
+    b = b * 45;
+    b += 2;
+    tc1 += 323123;
+    List<Class1test> newList = new List<Class1test>();
+    Class1test = new Class1test();
+    c = x + "okay";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void firstTestMethod() {
+    b = b * 45;
+    b += 2;
+    List<Class1test> newList = new List<Class1test>();
+    Class1test = new Class1test();
+    c = x + "okay";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void secondTestMethod() {
+    Class1test obj;
+    a = a + 9;
+    c = c.reverse();
+    Class1test = new Class1test();
+    String dorkarNai = "dorkarNai";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void thirdTestMethod() {
+    a = pow(a, 3);
+    b += 3.5;
+    assertEquals(c.size(), 5);
+}
+
+parent TestClass2
+
+TestClass2
+Visitor er filepath: C:\Users\noshi\Documents\Comic Life\TestSet\TestClass2.java
+
+Iteration no: 3
+Method gular list :@Before
+public void setUp() throws Exception {
+    tc1 = 665645543;
+    tc2 = 6765765678;
+}
+Method gular list :@Test
+public void classOneTestMethod() {
+    last = last + " used";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void firstTestMethod() {
+    b = b * 45;
+    b += 2;
+    List<Class1test> newList = new List<Class1test>();
+    Class1test = new Class1test();
+    c = x + "okay";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void secondTestMethod() {
+    Class1test obj;
+    a = a + 9;
+    c = c.reverse();
+    Class1test = new Class1test();
+    String dorkarNai = "dorkarNai";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void thirdTestMethod() {
+    a = pow(a, 3);
+    b += 3.5;
+    assertEquals(c.size(), 5);
+}
+
+parent LastExtendedTest
+
+LastExtendedTest
+Visitor er filepath: C:\Users\noshi\Documents\Comic Life\TestSet\LastExtendedTest.java
+
+Iteration no: 4
+Method gular list :@Before
+public void setUp() throws Exception {
+    last = "Not extended";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void firstTestMethod() {
+    b = b * 45;
+    b += 2;
+    List<Class1test> newList = new List<Class1test>();
+    Class1test = new Class1test();
+    c = x + "okay";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void secondTestMethod() {
+    Class1test obj;
+    a = a + 9;
+    c = c.reverse();
+    Class1test = new Class1test();
+    String dorkarNai = "dorkarNai";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void thirdTestMethod() {
+    a = pow(a, 3);
+    b += 3.5;
+    assertEquals(c.size(), 5);
+}
+
+Setup method er list @Before
+public void setUp() throws Exception {
+    System.out.println("Smelly Class");
+    a = 34;
+    b = 183.5;
+    c = "smell";
+}
+
+Setup method er list @Before
+public void setUp() throws Exception {
+    d = 76868;
+    e = 24323.5;
+    f = "extended";
+}
+
+Setup method er list @Before
+public void setUp() throws Exception {
+    tc1 = 665645543;
+    tc2 = 6765765678;
+}
+
+Setup method er list @Before
+public void setUp() throws Exception {
+    last = "Not extended";
+}
+
+body dekhi:
+ Optional[{
+    System.out.println("Smelly Class");
+    a = 34;
+    b = 183.5;
+    c = "smell";
+}]
+
+Setup e ekhn ache : a
+
+Setup e ekhn ache : b
+
+Setup e ekhn ache : c
+
+body dekhi:
+ Optional[{
+    d = 76868;
+    e = 24323.5;
+    f = "extended";
+}]
+
+Setup e ekhn ache : d
+
+Setup e ekhn ache : e
+
+Setup e ekhn ache : f
+
+body dekhi:
+ Optional[{
+    tc1 = 665645543;
+    tc2 = 6765765678;
+}]
+
+Setup e ekhn ache : tc1
+
+Setup e ekhn ache : tc2
+
+body dekhi:
+ Optional[{
+    last = "Not extended";
+}]
+
+Setup e ekhn ache : last
+
+Number of test methods in the class : 3
+
+Result String :
+Method firstTestMethod() has smell for variable a from line no 15 to 22
+
+
+
+
+
+Result String :
+Method firstTestMethod() has smell for variable d from line no 15 to 22
+
+
+
+
+
+Result String :
+Method firstTestMethod() has smell for variable e from line no 15 to 22
+
+
+
+
+
+Result String :
+Method firstTestMethod() has smell for variable f from line no 15 to 22
+
+
+
+
+
+Result String :
+Method firstTestMethod() has smell for variable tc1 from line no 15 to 22
+
+
+
+
+
+Result String :
+Method firstTestMethod() has smell for variable tc2 from line no 15 to 22
+
+
+
+
+
+Result String :
+Method firstTestMethod() has smell for variable last from line no 15 to 22
+
+
+
+
+
+Result String :
+Method secondTestMethod() has smell for variable b from line no 24 to 32
+
+
+
+
+
+Result String :
+Method secondTestMethod() has smell for variable d from line no 24 to 32
+
+
+
+
+
+Result String :
+Method secondTestMethod() has smell for variable e from line no 24 to 32
+
+
+
+
+
+Result String :
+Method secondTestMethod() has smell for variable f from line no 24 to 32
+
+
+
+
+
+Result String :
+Method secondTestMethod() has smell for variable tc1 from line no 24 to 32
+
+
+
+
+
+Result String :
+Method secondTestMethod() has smell for variable tc2 from line no 24 to 32
+
+
+
+
+
+Result String :
+Method secondTestMethod() has smell for variable last from line no 24 to 32
+
+
+
+
+
+Result String :
+Method thirdTestMethod() has smell for variable d from line no 34 to 39
+
+
+
+
+
+Result String :
+Method thirdTestMethod() has smell for variable e from line no 34 to 39
+
+
+
+
+
+Result String :
+Method thirdTestMethod() has smell for variable f from line no 34 to 39
+
+
+
+
+
+Result String :
+Method thirdTestMethod() has smell for variable tc1 from line no 34 to 39
+
+
+
+
+
+Result String :
+Method thirdTestMethod() has smell for variable tc2 from line no 34 to 39
+
+
+
+
+
+Result String :
+Method thirdTestMethod() has smell for variable last from line no 34 to 39
+
+
+
+
+Ended Class * Class0Test
+/Class1Test.java
+
+File Path (BuildCompilationUnit) : C:\Users\noshi\Documents\Comic Life\TestSet\Class1Test.java
+
+Iteration no: 1
+Method gular list :@Before
+public void setUp() throws Exception {
+    d = 76868;
+    e = 24323.5;
+    f = "extended";
+}
+Method gular list :@Test
+public void classOneTestMethod() {
+    b = b * 45;
+    b += 2;
+    tc1 += 323123;
+    List<Class1test> newList = new List<Class1test>();
+    Class1test = new Class1test();
+    c = x + "okay";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void classOneTestMethod() {
+    b = b * 45;
+    b += 2;
+    tc1 += 323123;
+    List<Class1test> newList = new List<Class1test>();
+    Class1test = new Class1test();
+    c = x + "okay";
+}
+
+parent TestClass2
+
+TestClass2
+Visitor er filepath: C:\Users\noshi\Documents\Comic Life\TestSet\TestClass2.java
+
+Iteration no: 2
+Method gular list :@Before
+public void setUp() throws Exception {
+    tc1 = 665645543;
+    tc2 = 6765765678;
+}
+Method gular list :@Test
+public void classOneTestMethod() {
+    last = last + " used";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void classOneTestMethod() {
+    b = b * 45;
+    b += 2;
+    tc1 += 323123;
+    List<Class1test> newList = new List<Class1test>();
+    Class1test = new Class1test();
+    c = x + "okay";
+}
+
+parent LastExtendedTest
+
+LastExtendedTest
+Visitor er filepath: C:\Users\noshi\Documents\Comic Life\TestSet\LastExtendedTest.java
+
+Iteration no: 3
+Method gular list :@Before
+public void setUp() throws Exception {
+    last = "Not extended";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void classOneTestMethod() {
+    b = b * 45;
+    b += 2;
+    tc1 += 323123;
+    List<Class1test> newList = new List<Class1test>();
+    Class1test = new Class1test();
+    c = x + "okay";
+}
+
+Setup method er list @Before
+public void setUp() throws Exception {
+    d = 76868;
+    e = 24323.5;
+    f = "extended";
+}
+
+Setup method er list @Before
+public void setUp() throws Exception {
+    tc1 = 665645543;
+    tc2 = 6765765678;
+}
+
+Setup method er list @Before
+public void setUp() throws Exception {
+    last = "Not extended";
+}
+
+body dekhi:
+ Optional[{
+    d = 76868;
+    e = 24323.5;
+    f = "extended";
+}]
+
+Setup e ekhn ache : d
+
+Setup e ekhn ache : e
+
+Setup e ekhn ache : f
+
+body dekhi:
+ Optional[{
+    tc1 = 665645543;
+    tc2 = 6765765678;
+}]
+
+Setup e ekhn ache : tc1
+
+Setup e ekhn ache : tc2
+
+body dekhi:
+ Optional[{
+    last = "Not extended";
+}]
+
+Setup e ekhn ache : last
+
+Number of test methods in the class : 1
+
+Result String :
+Method classOneTestMethod() has smell for variable d from line no 15 to 23
+
+
+
+
+
+Result String :
+Method classOneTestMethod() has smell for variable e from line no 15 to 23
+
+
+
+
+
+Result String :
+Method classOneTestMethod() has smell for variable f from line no 15 to 23
+
+
+
+
+
+Result String :
+Method classOneTestMethod() has smell for variable tc2 from line no 15 to 23
+
+
+
+
+
+Result String :
+Method classOneTestMethod() has smell for variable last from line no 15 to 23
+
+
+
+
+Ended Class * Class1test
+/LastExtendedtest.java
+
+File Path (BuildCompilationUnit) : C:\Users\noshi\Documents\Comic Life\TestSet\LastExtendedtest.java
+
+Iteration no: 1
+Method gular list :@Before
+public void setUp() throws Exception {
+    last = "Not extended";
+}
+
+Setup method er list @Before
+public void setUp() throws Exception {
+    last = "Not extended";
+}
+
+body dekhi:
+ Optional[{
+    last = "Not extended";
+}]
+
+Setup e ekhn ache : last
+
+Number of test methods in the class : 0
+Ended Class * LastExtendedTest
+/TestClass2.java
+
+File Path (BuildCompilationUnit) : C:\Users\noshi\Documents\Comic Life\TestSet\TestClass2.java
+
+Iteration no: 1
+Method gular list :@Before
+public void setUp() throws Exception {
+    tc1 = 665645543;
+    tc2 = 6765765678;
+}
+Method gular list :@Test
+public void classOneTestMethod() {
+    last = last + " used";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void classOneTestMethod() {
+    last = last + " used";
+}
+
+parent LastExtendedTest
+
+LastExtendedTest
+Visitor er filepath: C:\Users\noshi\Documents\Comic Life\TestSet\LastExtendedTest.java
+
+Iteration no: 2
+Method gular list :@Before
+public void setUp() throws Exception {
+    last = "Not extended";
+}
+
+List of Test Methods for the class :
+
+@Test
+public void classOneTestMethod() {
+    last = last + " used";
+}
+
+Setup method er list @Before
+public void setUp() throws Exception {
+    tc1 = 665645543;
+    tc2 = 6765765678;
+}
+
+Setup method er list @Before
+public void setUp() throws Exception {
+    last = "Not extended";
+}
+
+body dekhi:
+ Optional[{
+    tc1 = 665645543;
+    tc2 = 6765765678;
+}]
+
+Setup e ekhn ache : tc1
+
+Setup e ekhn ache : tc2
+
+body dekhi:
+ Optional[{
+    last = "Not extended";
+}]
+
+Setup e ekhn ache : last
+
+Number of test methods in the class : 1
+
+Result String :
+Method classOneTestMethod() has smell for variable tc1 from line no 14 to 19
+
+
+
+
+
+Result String :
+Method classOneTestMethod() has smell for variable tc2 from line no 14 to 19
+
+
+
+
+Ended Class * TestClass2
+/testClassNotExtended.java
+
+File Path (BuildCompilationUnit) : C:\Users\noshi\Documents\Comic Life\TestSet\testClassNotExtended.java
+
+Iteration no: 1
+Method gular list :@Before
+public void setUp() throws Exception {
+    System.out.println(firstString);
+    firstString = "new";
+    secondString = "secondNew";
+}
+Method gular list :@Test
+public void StringFirstTest() {
+    assertEquals(firstString.size(), 5);
+}
+Method gular list :@Test
+public void StringSecondTest() {
+    secondString += " addedNewString";
+    assertEquals(firstString.size(), 5);
+}
+Method gular list :@Test
+public void StringThirdTest() {
+    secondString += " addedNewString";
+    firstString += "accha";
+    int ghghghgh = 0;
+    assertEquals(firstString.size(), 5);
+}
+
+List of Test Methods for the class :
+
+@Test
+public void StringFirstTest() {
+    assertEquals(firstString.size(), 5);
+}
+
+List of Test Methods for the class :
+
+@Test
+public void StringSecondTest() {
+    secondString += " addedNewString";
+    assertEquals(firstString.size(), 5);
+}
+
+List of Test Methods for the class :
+
+@Test
+public void StringThirdTest() {
+    secondString += " addedNewString";
+    firstString += "accha";
+    int ghghghgh = 0;
+    assertEquals(firstString.size(), 5);
+}
+
+Setup method er list @Before
+public void setUp() throws Exception {
+    System.out.println(firstString);
+    firstString = "new";
+    secondString = "secondNew";
+}
+
+body dekhi:
+ Optional[{
+    System.out.println(firstString);
+    firstString = "new";
+    secondString = "secondNew";
+}]
+
+Setup e ekhn ache : firstString
+
+Setup e ekhn ache : secondString
+
+Number of test methods in the class : 3
+
+Result String :
+Method StringFirstTest() has smell for variable secondString from line no 15 to 20
+
+
+
+
+Ended Class * testClassNotExtended
+/TestNoSetup.java
+
+File Path (BuildCompilationUnit) : C:\Users\noshi\Documents\Comic Life\TestSet\TestNoSetup.java
+
+Iteration no: 1
+Method gular list :@Test
+public void methodNosetup1() {
+    assertEquals(nosetup1, 0);
+}
+Method gular list :@Test
+public void methodNosetup2() {
+    int aaaa = 0;
+}
+Method gular list :@Test
+public void methodNosetup3() {
+    assertEquals(a.size() + 1, b.size());
+}
+
+List of Test Methods for the class :
+
+@Test
+public void methodNosetup1() {
+    assertEquals(nosetup1, 0);
+}
+
+List of Test Methods for the class :
+
+@Test
+public void methodNosetup2() {
+    int aaaa = 0;
+}
+
+List of Test Methods for the class :
+
+@Test
+public void methodNosetup3() {
+    assertEquals(a.size() + 1, b.size());
+}
+
+Setup method nai re vai
+
+Number of test methods in the class : 3
+Ended Class * TestNoSetup
