@@ -1,0 +1,25 @@
+button clicked
+ProjectDir: C:\Users\noshi\Documents\EquationSolverTest-master
+/EquationSolverTest/src/ExpressionFormatter.java
+ * ExpressionFormatter
+
+/EquationSolverTest/src/ExpressionFormatterTest.java
+ * ExpressionFormatterTest
+
+/EquationSolverTest/src/ExpressionSimulationResultTest.java
+ * ExpressionSimulationResultTest
+
+/EquationSolverTest/src/ExpressionTextModification.java
+ * ExpressionTextModification
+
+/EquationSolverTest/src/Main.java
+ * Main
+
+/EquationSolverTest/src/OperationTest.java
+ * OperationTest
+
+/EquationSolverTest/src/SimulateEquation.java
+ * SimulateEquation
+
+/EquationSolverTest/src/SimulateEquationTest.java
+ * SimulateEquationTest
